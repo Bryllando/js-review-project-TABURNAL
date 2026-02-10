@@ -3,4 +3,5 @@
 
 This project is a review of Javascript concepts, from beginner to advance.
 
-#UPDATING FILE FROM GITHUB REPO AND PULL CHANGES TO LOCAL 
+UPDATING FILE FROM GITHUB REPO AND PULL CHANGES TO LOCAL 
+
